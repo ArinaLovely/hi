@@ -1,0 +1,153 @@
+/* Add your styles here */
+@import url('https://fonts.googleapis.com/css?family=Dosis');
+@import url('https://fonts.googleapis.com/css?family=Ubuntu+Condensed');
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display');
+@import url('https://fonts.googleapis.com/css?family=Exo+2');
+@import url('https://fonts.googleapis.com/css?family=Pacifico');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300');
+@import url('https://fonts.googleapis.com/css?family=Old+Standard+TT&display=swap');
+.game {
+  border: 0 currentColor;
+  padding-top: 0;
+  padding-right: 0;
+  padding-left: 0;
+  display: inline;
+  background-image: none;
+}
+.c{
+  text-decoration: none;
+}
+header {
+  background-size: cover;
+  background-color: black;
+  height: auto;
+  padding: 5px;
+  width: 100%;
+  color: lemonchiffon;
+  min-width: 500px;
+}
+.ava1 {
+  background-image: url(https://klike.net/uploads/posts/2018-06/medium/1528377554_13.jpeg);
+  background-size: cover;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  margin: 25px;
+}
+h1 {
+  margin: 25px;
+  font-family: 'Pacifico', cursive;
+}
+.film {
+  font-family: 'Ubuntu Condensed', sans-serif;
+}
+.game1 {
+  font-family: 'Playfair Display', serif;
+}
+.game2 {
+  font-family: 'Exo 2', sans-serif;
+}
+nav > .c > ul{
+  font-family: 'Open Sans Condensed', sans-serif;
+  color: lemonchiffon;
+}
+body {
+  padding: 0;
+  margin: 0;
+}
+contain {
+  padding: 25px;
+  min-width: 500px; 
+}
+.z1 {
+  font-size: 40px;
+}
+.ava2 {
+  background-image: url(https://nyaa.shikimori.org/system/animes/original/19815.jpg?1545669351);
+  background-size: cover;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  margin: 25px;
+}
+.person {
+  width: 100%;
+  height: auto;
+  border: 1px solid black;
+  display: flex;
+  align-content: center;
+  text-align: center;
+  margin: 5px;
+}
+.name{
+  text-decoration: none;
+}
+.person > .name {
+  font-family: 'Old Standard TT', serif;
+  font-size: 20px;
+  color: black;
+}
+.person1 {}
+.person2 {}
+footer {
+  width: 100%;
+  background-color: #ddd;
+  height: auto;
+  display: flex;
+  justify-content: center;
+}
+i {
+  font-size: 36px;
+  color: #000;
+}
+.vk :hover {
+  background-color: #375474;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  margin: 5px;
+  color: #fff;
+}
+.android :hover {
+  background-color: #a5c63b;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  margin: 5px;
+  color: #fff;
+}
+.twitter :hover {
+  background-color: #32ccfe;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  margin: 5px;
+  color: #fff;
+}
+.twitch :hover {
+  background-color: #653fa7;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  margin: 5px;
+  color: #fff;
+}
+.youtube :hover {
+  background-color: #c52f30;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  margin: 5px;
+  color: #fff;
+}
+.icon{
+  margin: 10px;
+}
+.u{
+  text-decoration: none;
+}
+.game{
+  width: 100%;
+  min-width: 500px;
+  height: auto;
+}
